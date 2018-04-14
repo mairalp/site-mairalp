@@ -7,22 +7,34 @@
   margin:0px auto;
 }
 
-.contact {
-  text-align: center;
-}
-
 .container {
     margin-top: 40px;
 }
 
 .curriculum-text {
   font-family: Lato;
-  color: #222f3e;
+  opacity: 0.8;
+}
+
+.curriculum-text a:link {
+    font-family: Lato;
+    opacity: 0.8;
+    color: #000000;
+}
+
+.switch-language {
+  font-family: Lato;
+  color: #FFFFFF;
+  opacity: 0.7;
+  margin-right: 30px;
+  margin-top: 10px;
+  text-align: right;
 }
 
 h1 {
   font-family: Lato;
 }
+
 
 a:link {
     color: #FFFFFF;
