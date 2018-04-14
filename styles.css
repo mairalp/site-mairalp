@@ -15,6 +15,15 @@
     margin-top: 40px;
 }
 
+.curriculum-text {
+  font-family: Lato;
+  color: #222f3e;
+}
+
+h1 {
+  font-family: Lato;
+}
+
 a:link {
     color: #FFFFFF;
 }
