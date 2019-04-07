@@ -5,22 +5,15 @@
   height:150px;
   weight:100%;
   margin:0px auto;
-  font-size:20;
 }
 
 .container {
-    margin-top: 40px;
+    margin-top:0px;
 }
 
 .curriculum-text {
   font-family: Lato;
   opacity: 0.8;
-}
-
-.curriculum-text a:link {
-    font-family: Lato;
-    opacity: 0.8;
-    color: #000000;
 }
 
 .switch-language {
@@ -34,6 +27,7 @@
 
 h1 {
   font-family: Lato;
+  font-size:20;
 }
 
 
